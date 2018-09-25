@@ -1,0 +1,9 @@
+{
+	"name": "additional-barreling",
+	"version": "0.1.0",
+	"factorio_version": "0.16",
+	"title": "Additional Barreling",
+	"author": "Harag",
+	"description": "Adds barreling for several mod fluids (Angel's used coolant, Omnimatter acid and Omniston)",
+	"dependencies": ["base >= 0.16.0", "? angelssmelting", "? omnimatter"]
+}
